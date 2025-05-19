@@ -1,0 +1,31 @@
+{
+  "name": "kwi-guard-bot",
+  "version": "1.0.0",
+  "description": "Discord Guard Bot - Kiwi",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "guard",
+    "security",
+    "protection",
+    "bot"
+  ],
+  "author": "KWI",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "discord-api-types": "^0.37.61",
+    "discord.js": "^14.14.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "mongoose": "^8.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

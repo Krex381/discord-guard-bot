@@ -1,0 +1,27 @@
+{
+  "token": "",
+  "clientId": "",
+  "serverId": "",
+  "owners": [
+    "1012249571436548136"
+  ],
+  "mongoURI": "",
+  "logChannelId": "",
+  "defaultPrefix": "!",
+  "guardSettings": {
+    "roleProtection": true,
+    "channelProtection": true,
+    "emojiProtection": true,
+    "guildUpdateProtection": true,
+    "banKickProtection": true,
+    "botAddProtection": true,
+    "webhookProtection": true,
+    "roleDistributionProtection": true,
+    "raidProtection": true,
+    "everyoneHereProtection": true,
+    "spamProtection": true,
+    "adBlockProtection": true
+  },
+  "whitelist": [
+  ]
+}
