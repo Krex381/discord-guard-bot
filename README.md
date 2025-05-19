@@ -1,6 +1,6 @@
-# 🛡️ KWI Guard Bot
+# 🛡️ Guard Bot
 
-KWI Guard Bot, Discord sunucunuz için geliştirilmiş kapsamlı bir koruma ve güvenlik sistemidir. Yetkisiz işlemlere karşı sunucunuzu güvende tutar ve tüm koruma işlemlerini detaylı olarak loglar.
+Guard Bot, Discord sunucunuz için geliştirilmiş kapsamlı bir koruma ve güvenlik sistemidir. Yetkisiz işlemlere karşı sunucunuzu güvende tutar ve tüm koruma işlemlerini detaylı olarak loglar.
 
 ## ✨ Özellikler
 
