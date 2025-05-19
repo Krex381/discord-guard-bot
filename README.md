@@ -161,7 +161,7 @@ Bu sistem 24 saat içinde yapılan işlemleri sayar, 24 saat geçtikten sonra sa
 
 ## 🛠️ Geliştiriciler
 
-- KrexDLL (Discord) - [Ulas Bana](https://discord.com/users/1012249571436548136)
+- krexdll (Discord) - [Ulas Bana](https://discord.com/users/1012249571436548136)
 
 ## 📅 Güncelleme Notları
 
